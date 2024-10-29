@@ -1,0 +1,5 @@
+{
+  "appId": "com.example.app",
+  "appName": "my-stack-app",
+  "webDir": "dist"
+}
